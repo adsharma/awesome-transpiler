@@ -14,6 +14,9 @@
   * Nim
   * [V](http://vlang.io)
 
+### Erlang
+
+* [Aleph Ollama](https://github.com/aleph-lang/aleph_ollama_erlang) - AI-powered source code translation tool using local Ollama API.
 
 ### Golang
 
@@ -28,8 +31,8 @@
 
 ### Rust
 
+* [Aleph Ollama](https://github.com/aleph-lang/aleph_ollama) - AI-powered source code translation tool using local Ollama API.
 * [C2Rust](https://github.com/immunant/c2rust) Migrate C code to Rust.
-
 
 ### JavaScript
 
