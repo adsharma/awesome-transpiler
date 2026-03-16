@@ -43,3 +43,7 @@
 * [JSweet](https://www.jsweet.org/) A transpiler from Java to TypeScript/JavaScript.
 * [GopherJS](https://github.com/gopherjs/gopherjs) A compiler from Go to JavaScript for running Go code in a browser.
 * [Dart2js](https://dart.dev/tools/dart2js) Use the dart2js tool to compile Dart code to deployable JavaScript.
+
+### PowerPC Assembly
+
+* [rust-ppc-tiger](https://github.com/Scottcjn/rust-ppc-tiger) Rust to PowerPC assembly transpiler targeting Mac OS X Tiger (10.4) and Leopard (10.5). Generates native PPC/AltiVec assembly from Rust source files.
